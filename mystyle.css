@@ -112,7 +112,7 @@ footer p {
 
         img {
             width: 20%;        /* Image width */
-            height: auto;      /* Maintain aspect ratio */
+            height: 20%;      
             display: block;    /* Block-level element */
             margin-left: auto; /* Horizontal centering */
             margin-right: auto; /* Horizontal centering */
