@@ -109,6 +109,12 @@ footer p {
     font-size: 1em;
 }
 
-
+ img {
+            width: 15%             /* Reduce width to 15% of the original size */
+            height: 15%;           /* Reduce height to 15% of the original size */
+            display: block;        /* Block-level element */
+            margin-left: auto;     /* Horizontal centering */
+            margin-right: auto;    /* Horizontal centering */
+        }
 
 
