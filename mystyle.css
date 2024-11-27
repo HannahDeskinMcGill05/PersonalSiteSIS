@@ -108,3 +108,8 @@ footer {
 footer p {
     font-size: 1em;
 }
+
+img {
+    width: 300px !important;  /* Force width to 300px */
+    height: auto;   
+}
